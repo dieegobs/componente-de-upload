@@ -33,3 +33,23 @@ html, body {
     inset: 0;
     position: absolute;
 }
+
+.drag-files i.ph {
+    font-size: 48px;
+    color: #7C3AED;
+}
+
+.drag-files h3 {
+    margin-top: 12px;
+    color: #7A5FEC;
+    font-size: 16px;
+}
+
+.drag-files p {
+    font-size: 14px;
+    color: #746E82;
+}
+
+.drag-files.dragover{
+    background: #EBE6FF;
+}
