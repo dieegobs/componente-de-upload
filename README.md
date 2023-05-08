@@ -1,1 +1,1 @@
-﻿# Componente de uploadd
+﻿# Componente de upload
